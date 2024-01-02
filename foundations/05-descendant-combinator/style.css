@@ -1,0 +1,24 @@
+/* descendant css style */
+/* .container .text{ 
+    background-color: #ffff00;
+    color: #f00;
+    font-size: 20px;
+    text-align: center;
+} */
+
+
+
+/* Below are some other possible descendant combinators:
+
+div p
+div > p
+div .text
+.container p
+
+*/
+div .text{ 
+    background-color:yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+}
